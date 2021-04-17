@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="32" total="39" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80111" started-at="2021-04-11T17:51:10 IST" finished-at="2021-04-11T17:52:30 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80111" started-at="2021-04-11T17:51:10 IST" finished-at="2021-04-11T17:52:30 IST">
+      <class name="trackingNumber.SimpleRouteTestCases">
+        <test-method status="PASS" signature="oneTimeSetUp()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="oneTimeSetUp" is-config="true" duration-ms="15" started-at="2021-04-11T17:51:10 IST" finished-at="2021-04-11T17:51:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneTimeSetUp -->
+        <test-method status="PASS" signature="trackingNumberPreCondition()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="trackingNumberPreCondition" is-config="true" duration-ms="0" started-at="2021-04-11T17:51:10 IST" finished-at="2021-04-11T17:51:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trackingNumberPreCondition -->
+        <test-method status="PASS" signature="simpleRoutePreConditionBeforeClass()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="simpleRoutePreConditionBeforeClass" is-config="true" duration-ms="0" started-at="2021-04-11T17:51:10 IST" finished-at="2021-04-11T17:51:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleRoutePreConditionBeforeClass -->
+        <test-method status="PASS" signature="SimpleRoutePreConditionBeforeMethod()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="SimpleRoutePreConditionBeforeMethod" is-config="true" duration-ms="0" started-at="2021-04-11T17:51:10 IST" finished-at="2021-04-11T17:51:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SimpleRoutePreConditionBeforeMethod -->
+        <test-method status="PASS" signature="login()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="login" duration-ms="47958" started-at="2021-04-11T17:51:10 IST" finished-at="2021-04-11T17:51:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="SimpleRoutePostConditionAfterMethod()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="SimpleRoutePostConditionAfterMethod" is-config="true" duration-ms="14" started-at="2021-04-11T17:51:58 IST" finished-at="2021-04-11T17:51:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SimpleRoutePostConditionAfterMethod -->
+        <test-method status="PASS" signature="SimpleRoutePreConditionBeforeMethod()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="SimpleRoutePreConditionBeforeMethod" is-config="true" duration-ms="1" started-at="2021-04-11T17:51:58 IST" finished-at="2021-04-11T17:51:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SimpleRoutePreConditionBeforeMethod -->
+        <test-method status="PASS" signature="createSimpleRouteTN()[pri:1, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="createSimpleRouteTN" duration-ms="32047" started-at="2021-04-11T17:51:58 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createSimpleRouteTN -->
+        <test-method status="PASS" signature="SimpleRoutePostConditionAfterMethod()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="SimpleRoutePostConditionAfterMethod" is-config="true" duration-ms="1" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SimpleRoutePostConditionAfterMethod -->
+        <test-method status="PASS" signature="simpleRoutePostConditionBeforeClass()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="simpleRoutePostConditionBeforeClass" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleRoutePostConditionBeforeClass -->
+        <test-method status="PASS" signature="trackingNumberPostCondition()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="trackingNumberPostCondition" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trackingNumberPostCondition -->
+        <test-method status="PASS" signature="oneTimeTearDown()[pri:0, instance:trackingNumber.SimpleRouteTestCases@449a4f23]" name="oneTimeTearDown" is-config="true" duration-ms="1" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneTimeTearDown -->
+      </class> <!-- trackingNumber.SimpleRouteTestCases -->
+      <class name="campaign.CampaignPreconditionBeforeTest">
+        <test-method status="PASS" signature="campaignPreCondition()[pri:0, instance:campaign.CampaignPreconditionBeforeTest@1530c739]" name="campaignPreCondition" is-config="true" duration-ms="0" started-at="2021-04-11T17:51:10 IST" finished-at="2021-04-11T17:51:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campaignPreCondition -->
+        <test-method status="PASS" signature="campaignPostCondition()[pri:0, instance:campaign.CampaignPreconditionBeforeTest@1530c739]" name="campaignPostCondition" is-config="true" duration-ms="1" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campaignPostCondition -->
+      </class> <!-- campaign.CampaignPreconditionBeforeTest -->
+      <class name="campaign.CampaignBuilderActualTestCases">
+        <test-method status="PASS" signature="CampaignListPreConditionBeforeClass()[pri:0, instance:campaign.CampaignBuilderActualTestCases@5b1669c0]" name="CampaignListPreConditionBeforeClass" is-config="true" duration-ms="1" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignListPreConditionBeforeClass -->
+        <test-method status="PASS" signature="CampaignBuilderPreTestCaseBeforeMethod()[pri:0, instance:campaign.CampaignBuilderActualTestCases@5b1669c0]" name="CampaignBuilderPreTestCaseBeforeMethod" is-config="true" duration-ms="1" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignBuilderPreTestCaseBeforeMethod -->
+        <test-method status="PASS" signature="checkCreateCampaign()[pri:0, instance:campaign.CampaignBuilderActualTestCases@5b1669c0]" name="checkCreateCampaign" duration-ms="3" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCreateCampaign -->
+        <test-method status="PASS" signature="CampaignBuilderPostTestCaseAfterMethod()[pri:0, instance:campaign.CampaignBuilderActualTestCases@5b1669c0]" name="CampaignBuilderPostTestCaseAfterMethod" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignBuilderPostTestCaseAfterMethod -->
+        <test-method status="PASS" signature="checkEditCampaign()[pri:0, instance:campaign.CampaignBuilderActualTestCases@5b1669c0]" name="checkEditCampaign" duration-ms="4" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkEditCampaign -->
+        <test-method status="PASS" signature="CampaignBuilderPreTestCaseBeforeMethod()[pri:0, instance:campaign.CampaignBuilderActualTestCases@5b1669c0]" name="CampaignBuilderPreTestCaseBeforeMethod" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignBuilderPreTestCaseBeforeMethod -->
+        <test-method status="PASS" signature="CampaignBuilderPostTestCaseAfterMethod()[pri:0, instance:campaign.CampaignBuilderActualTestCases@5b1669c0]" name="CampaignBuilderPostTestCaseAfterMethod" is-config="true" duration-ms="1" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignBuilderPostTestCaseAfterMethod -->
+        <test-method status="PASS" signature="CampaignListPostConditionBeforeClass()[pri:0, instance:campaign.CampaignBuilderActualTestCases@5b1669c0]" name="CampaignListPostConditionBeforeClass" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignListPostConditionBeforeClass -->
+      </class> <!-- campaign.CampaignBuilderActualTestCases -->
+      <class name="campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass">
+        <test-method status="PASS" signature="CampaignListPreConditionBeforeClass()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="CampaignListPreConditionBeforeClass" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignListPreConditionBeforeClass -->
+        <test-method status="PASS" signature="CampaignListPreTestCaseBeforeMethod()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="CampaignListPreTestCaseBeforeMethod" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignListPreTestCaseBeforeMethod -->
+        <test-method status="PASS" signature="checkListOfCampaigns()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="checkListOfCampaigns" duration-ms="2" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkListOfCampaigns -->
+        <test-method status="PASS" signature="CampaignListPostTestCaseAfterMethod()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="CampaignListPostTestCaseAfterMethod" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignListPostTestCaseAfterMethod -->
+        <test-method status="PASS" signature="CampaignListPreTestCaseBeforeMethod()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="CampaignListPreTestCaseBeforeMethod" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignListPreTestCaseBeforeMethod -->
+        <test-method status="PASS" signature="checkTrackingNumbersOfCampaign()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="checkTrackingNumbersOfCampaign" duration-ms="2" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTrackingNumbersOfCampaign -->
+        <test-method status="PASS" signature="CampaignListPostTestCaseAfterMethod()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="CampaignListPostTestCaseAfterMethod" is-config="true" duration-ms="4" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignListPostTestCaseAfterMethod -->
+        <test-method status="PASS" signature="exportCampaignsandTrackingNumbers()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="exportCampaignsandTrackingNumbers" duration-ms="3" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exportCampaignsandTrackingNumbers -->
+        <test-method status="PASS" signature="CampaignListPreTestCaseBeforeMethod()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="CampaignListPreTestCaseBeforeMethod" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignListPreTestCaseBeforeMethod -->
+        <test-method status="PASS" signature="CampaignListPostTestCaseAfterMethod()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="CampaignListPostTestCaseAfterMethod" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignListPostTestCaseAfterMethod -->
+        <test-method status="PASS" signature="CampaignListPostConditionBeforeClass()[pri:0, instance:campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass@78e4deb0]" name="CampaignListPostConditionBeforeClass" is-config="true" duration-ms="0" started-at="2021-04-11T17:52:30 IST" finished-at="2021-04-11T17:52:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignListPostConditionBeforeClass -->
+      </class> <!-- campaign.CampaignListClassMethodAndActualTestCasesAllinOneClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
